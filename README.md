@@ -1,5 +1,5 @@
 # PowerShell
-This repo will provide you with all the resources that one need to excel in PowerShell 
+This repo will provide you with all the resources that one need to excel in PowerShell. 
 You guys always wanted to perform automation and all that through Powershell but did not get the means to do it. I got you then.
 Disclaimer: You that you can perform python type stuff in Powershell as well.
 The internet is a big hole to search for not-so-specific-things. You better know how to divert your attention to the best option available.
