@@ -10,7 +10,7 @@ I am listing all the resources available to make you better at Powershell.
 Resource:
  1)https://learn.microsoft.com/en-us/powershell/scripting/learn/more-powershell-learning?view=powershell-7.3 (checkout youtube channel by the name - "Nerd's Lesson")
  
-2)https://www.youtube.com/watch?v=ZOoCaWyifmI&t=5525s(Youtube channel name- "James Tyler")
+2)https://www.youtube.com/watch?v=ZOoCaWyifmI&t=5525s (Youtube channel name- "James Tyler")
 This is it. 
 
 
